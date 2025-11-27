@@ -1,5 +1,11 @@
 ## Hi there 👋
+I am an engineering student in my last (3rd) year at ENSEIRB-MATMECA! My major is Computer Science.
 
+I have 2 repositories from organizations that don't show on my profile : 
+- PFA-Visualgo : https://github.com/PFA-Visualgo
+  - Developed a webpage that executes python code step by step, visualising the current state of the program. https://pfa-visualgo.github.io/Visualgo/ui/
+- Eirbware : https://github.com/Eirbware
+  - Developed caslogin-mc and caslogin-mc-auth websites. This is a VelocityPowered proxy plugin that authenticates users to a CAS server (using a website to generate one-time use tokens), and then uses that profile to switch their information when they connect to the actual server.
 <!--
 **sakhalifa/sakhalifa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
